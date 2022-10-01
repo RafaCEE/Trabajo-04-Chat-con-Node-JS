@@ -1,6 +1,5 @@
 # Trabajo-04-Chat-con-Node-JS
-Objetivo
-conocer JavaScript del lado de servidor
+Objetivo conocer JavaScript del lado de servidor
 
 Desarrollo
 1.- Instalar nodejs
